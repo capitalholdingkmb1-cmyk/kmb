@@ -1,0 +1,1783 @@
+[Thu Jun 18 09:26:07 2026] PHP 8.0.30 Development Server (http://127.0.0.1:8000) started
+[Thu Jun 18 09:26:21 2026] 127.0.0.1:50742 Accepted
+[Thu Jun 18 09:26:21 2026] 127.0.0.1:50742 [200]: GET /index.php
+[Thu Jun 18 09:26:21 2026] 127.0.0.1:50742 Closing
+[Thu Jun 18 09:26:43 2026] 127.0.0.1:50753 Accepted
+[Thu Jun 18 09:26:43 2026] 127.0.0.1:50753 [200]: GET /index.php
+[Thu Jun 18 09:26:43 2026] 127.0.0.1:50753 Closing
+[Thu Jun 18 09:26:43 2026] 127.0.0.1:50755 Accepted
+[Thu Jun 18 09:26:43 2026] 127.0.0.1:50755 [200]: GET /secteur.html?id=petroleum
+[Thu Jun 18 09:26:43 2026] 127.0.0.1:50755 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50766 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50766 [200]: GET /index.php
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50766 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50768 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50768 [200]: GET /assets/site.css?v=20260617-builderz-white-brown
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50769 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50770 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50768 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50771 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50769 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50770 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50771 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50773 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50774 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50775 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50773 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50774 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50775 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50770 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50777 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50777 [200]: GET /assets/site.js?v=20260602-contact-storage
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50777 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50769 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50773 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50771 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50774 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50775 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50782 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50782 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50782 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50784 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50785 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50784 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50785 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50786 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50786 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50787 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50787 [200]: GET /assets/LB.png
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50787 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50784 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50785 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50786 Closing
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50793 Accepted
+[Thu Jun 18 09:26:52 2026] 127.0.0.1:50793 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 09:26:53 2026] 127.0.0.1:50801 Accepted
+[Thu Jun 18 09:26:53 2026] 127.0.0.1:50801 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 09:26:53 2026] 127.0.0.1:50801 Closing
+[Thu Jun 18 09:26:53 2026] 127.0.0.1:50793 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50813 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50813 [200]: GET /index.php
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50813 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50814 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50814 [200]: GET /assets/site.css?v=20260617-builderz-white-brown
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50814 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50816 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50817 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50818 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50816 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50817 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50818 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50819 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50819 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50817 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50822 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50823 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50822 [200]: GET /assets/site.js?v=20260602-contact-storage
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50823 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50816 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50819 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50822 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50818 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50824 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50824 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50823 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50825 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50824 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50825 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50825 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50829 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50829 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50829 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50830 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50830 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50830 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50831 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50832 Accepted
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50831 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50832 [200]: GET /assets/LB.png
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50832 Closing
+[Thu Jun 18 09:27:00 2026] 127.0.0.1:50831 Closing
+[Thu Jun 18 09:27:01 2026] 127.0.0.1:50838 Accepted
+[Thu Jun 18 09:27:01 2026] 127.0.0.1:50838 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 09:27:01 2026] 127.0.0.1:50844 Accepted
+[Thu Jun 18 09:27:01 2026] 127.0.0.1:50844 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 09:27:01 2026] 127.0.0.1:50844 Closing
+[Thu Jun 18 09:27:02 2026] 127.0.0.1:50838 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50857 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50857 [200]: GET /index.php
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50857 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50858 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50858 [200]: GET /assets/site.css?v=20260617-builderz-white-brown
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50860 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50861 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50860 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50862 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50861 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50858 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50862 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50865 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50866 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50860 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50867 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50865 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50866 [200]: GET /assets/site.js?v=20260602-contact-storage
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50867 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50866 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50868 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50868 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50870 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50861 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50870 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50865 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50862 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50867 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50868 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50870 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50875 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50875 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50876 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50876 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50877 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50877 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50875 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50879 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50879 [200]: GET /assets/LB.png
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50876 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50879 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50877 Closing
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50885 Accepted
+[Thu Jun 18 09:27:12 2026] 127.0.0.1:50885 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 09:27:13 2026] 127.0.0.1:50891 Accepted
+[Thu Jun 18 09:27:13 2026] 127.0.0.1:50891 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 09:27:13 2026] 127.0.0.1:50891 Closing
+[Thu Jun 18 09:27:14 2026] 127.0.0.1:50885 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50906 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50906 [200]: GET /index.php
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50906 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50908 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50909 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50908 [200]: GET /assets/site.css?v=20260617-builderz-white-brown
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50910 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50909 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50911 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50910 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50911 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50908 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50912 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50913 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50912 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50913 [200]: GET /assets/site.js?v=20260602-contact-storage
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50909 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50913 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50916 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50916 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50910 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50912 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50917 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50911 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50917 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50918 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50916 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50918 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50917 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50918 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50923 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50923 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50923 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50924 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50926 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50924 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50926 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50927 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50924 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50926 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50927 [200]: GET /assets/LB.png
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50927 Closing
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50933 Accepted
+[Thu Jun 18 09:27:28 2026] 127.0.0.1:50933 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 09:27:29 2026] 127.0.0.1:50939 Accepted
+[Thu Jun 18 09:27:29 2026] 127.0.0.1:50939 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 09:27:29 2026] 127.0.0.1:50939 Closing
+[Thu Jun 18 09:27:29 2026] 127.0.0.1:50933 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50953 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50953 [200]: GET /index.php
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50953 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50954 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50954 [200]: GET /assets/site.css?v=20260617-builderz-white-brown
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50954 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50956 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50957 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50958 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50956 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50957 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50958 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50960 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50961 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50960 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50962 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50961 [200]: GET /assets/site.js?v=20260602-contact-storage
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50957 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50962 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50961 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50956 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50964 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50960 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50964 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50965 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50958 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50962 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50965 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50964 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50965 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50969 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50969 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50969 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50970 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50970 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50971 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50971 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50970 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50973 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50971 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50973 [200]: GET /assets/LB.png
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50973 Closing
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50979 Accepted
+[Thu Jun 18 09:27:46 2026] 127.0.0.1:50979 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 09:27:47 2026] 127.0.0.1:50985 Accepted
+[Thu Jun 18 09:27:47 2026] 127.0.0.1:50985 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 09:27:47 2026] 127.0.0.1:50985 Closing
+[Thu Jun 18 09:27:49 2026] 127.0.0.1:50979 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51006 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51006 [200]: GET /index.php
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51006 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51007 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51007 [200]: GET /assets/site.css?v=20260617-builderz-white-brown
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51009 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51010 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51009 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51011 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51010 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51007 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51012 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51011 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51013 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51012 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51013 [200]: GET /assets/site.js?v=20260602-contact-storage
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51010 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51016 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51013 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51016 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51017 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51017 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51012 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51009 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51011 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51016 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51018 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51018 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51017 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51018 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51021 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51021 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51021 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51022 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51023 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51022 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51023 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51022 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51023 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51024 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51024 [200]: GET /assets/LB.png
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51024 Closing
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51029 Accepted
+[Thu Jun 18 09:28:03 2026] 127.0.0.1:51029 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 09:28:04 2026] 127.0.0.1:51037 Accepted
+[Thu Jun 18 09:28:04 2026] 127.0.0.1:51037 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 09:28:04 2026] 127.0.0.1:51037 Closing
+[Thu Jun 18 09:28:07 2026] 127.0.0.1:51029 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51052 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51052 [200]: GET /index.php
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51052 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51053 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51053 [200]: GET /assets/site.css?v=20260617-builderz-white-brown
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51053 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51055 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51056 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51057 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51055 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51056 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51057 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51056 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51058 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51059 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51060 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51058 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51059 [200]: GET /assets/site.js?v=20260602-contact-storage
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51060 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51059 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51055 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51057 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51058 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51060 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51063 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51063 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51064 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51064 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51063 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51064 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51069 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51069 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51070 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51070 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51071 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51071 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51069 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51070 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51072 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51072 [200]: GET /assets/LB.png
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51072 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51071 Closing
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51081 Accepted
+[Thu Jun 18 09:28:34 2026] 127.0.0.1:51081 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 09:28:35 2026] 127.0.0.1:51087 Accepted
+[Thu Jun 18 09:28:35 2026] 127.0.0.1:51087 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 09:28:35 2026] 127.0.0.1:51087 Closing
+[Thu Jun 18 09:28:36 2026] 127.0.0.1:51081 Closing
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51102 Accepted
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51102 [200]: GET /index.php
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51102 Closing
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51103 Accepted
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51103 [200]: GET /assets/site.css?v=20260617-builderz-white-brown
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51105 Accepted
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51103 Closing
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51106 Accepted
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51105 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51106 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51107 Accepted
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51107 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51106 Closing
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51108 Accepted
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51109 Accepted
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51108 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51110 Accepted
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51109 [200]: GET /assets/site.js?v=20260602-contact-storage
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51110 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51109 Closing
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51113 Accepted
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51113 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51105 Closing
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51108 Closing
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51107 Closing
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51110 Closing
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51114 Accepted
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51114 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51113 Closing
+[Thu Jun 18 09:28:53 2026] 127.0.0.1:51114 Closing
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51116 Accepted
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51116 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51117 Accepted
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51116 Closing
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51117 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51118 Accepted
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51118 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51117 Closing
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51118 Closing
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51121 Accepted
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51121 [200]: GET /assets/LB.png
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51121 Closing
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51128 Accepted
+[Thu Jun 18 09:28:54 2026] 127.0.0.1:51128 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 09:28:55 2026] 127.0.0.1:51134 Accepted
+[Thu Jun 18 09:28:55 2026] 127.0.0.1:51134 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 09:28:55 2026] 127.0.0.1:51134 Closing
+[Thu Jun 18 09:28:56 2026] 127.0.0.1:51128 Closing
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51161 Accepted
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51161 [200]: GET /secteur.html?id=petroleum
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51162 Accepted
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51161 Closing
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51162 [200]: GET /assets/site.css?v=20260617-builderz-white-brown
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51163 Accepted
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51164 Accepted
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51163 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51164 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51162 Closing
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51165 Accepted
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51165 [200]: GET /assets/site.js?v=20260602-contact-storage
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51163 Closing
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51165 Closing
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51164 Closing
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51170 Accepted
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51170 [500]: GET /sector-projects.php?id=petroleum
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51170 Closing
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51171 Accepted
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51172 Accepted
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51171 [500]: GET /sector-media.php?id=petroleum
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51171 Closing
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51173 Accepted
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51172 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51173 [200]: GET /assets/secteurs/2.png
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51172 Closing
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51173 Closing
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51181 Accepted
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51181 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 09:29:11 2026] 127.0.0.1:51181 Closing
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51276 Accepted
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51276 [200]: GET /index.php
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51276 Closing
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51278 Accepted
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51278 [200]: GET /secteur.html?id=petroleum
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51278 Closing
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51279 Accepted
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51279 [200]: GET /secteur.html?id=renewables
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51279 Closing
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51280 Accepted
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51280 [200]: GET /secteur.html?id=hydrocarbons
+[Thu Jun 18 09:31:02 2026] 127.0.0.1:51280 Closing
+[Thu Jun 18 09:39:58 2026] 127.0.0.1:51665 Accepted
+[Thu Jun 18 09:39:58 2026] 127.0.0.1:51665 [200]: GET /index.php
+[Thu Jun 18 09:39:58 2026] 127.0.0.1:51665 Closing
+[Thu Jun 18 09:43:52 2026] 127.0.0.1:51906 Accepted
+[Thu Jun 18 09:43:52 2026] 127.0.0.1:51906 [200]: GET /index.php
+[Thu Jun 18 09:43:52 2026] 127.0.0.1:51906 Closing
+[Thu Jun 18 09:46:26 2026] 127.0.0.1:52275 Accepted
+[Thu Jun 18 09:46:26 2026] 127.0.0.1:52275 [200]: GET /index.php
+[Thu Jun 18 09:46:26 2026] 127.0.0.1:52275 Closing
+[Thu Jun 18 11:29:09 2026] 127.0.0.1:55251 Accepted
+[Thu Jun 18 11:29:09 2026] 127.0.0.1:55251 [200]: GET /index.php
+[Thu Jun 18 11:29:09 2026] 127.0.0.1:55251 Closing
+[Thu Jun 18 11:29:20 2026] 127.0.0.1:55257 Accepted
+[Thu Jun 18 11:29:20 2026] 127.0.0.1:55257 [200]: GET /index.php
+[Thu Jun 18 11:29:20 2026] 127.0.0.1:55257 Closing
+[Thu Jun 18 11:29:20 2026] 127.0.0.1:55259 Accepted
+[Thu Jun 18 11:29:20 2026] 127.0.0.1:55259 [200]: GET /assets/site.css?v=20260618-contact-strip
+[Thu Jun 18 11:29:20 2026] 127.0.0.1:55259 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55273 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55273 [200]: GET /index.php
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55273 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55275 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55276 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55275 [200]: GET /assets/site.css?v=20260618-contact-strip
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55275 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55278 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55276 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55279 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55278 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55280 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55279 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55281 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55280 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55281 [200]: GET /assets/site.js?v=20260618-contact-strip
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55284 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55276 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55284 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55281 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55285 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55285 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55286 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55286 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55280 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55278 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55284 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55279 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55285 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55286 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55288 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55288 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55288 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55289 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55290 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55289 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55290 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55289 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55290 Closing
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55291 Accepted
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55291 [200]: GET /assets/LB.png
+[Thu Jun 18 11:29:29 2026] 127.0.0.1:55291 Closing
+[Thu Jun 18 11:29:30 2026] 127.0.0.1:55296 Accepted
+[Thu Jun 18 11:29:30 2026] 127.0.0.1:55296 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 11:29:31 2026] 127.0.0.1:55304 Accepted
+[Thu Jun 18 11:29:31 2026] 127.0.0.1:55304 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 11:29:31 2026] 127.0.0.1:55304 Closing
+[Thu Jun 18 11:29:32 2026] 127.0.0.1:55296 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55316 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55316 [200]: GET /index.php
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55316 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55317 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55317 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55317 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55319 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55320 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55321 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55322 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55319 [200]: GET /assets/site.css?v=20260618-contact-strip
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55320 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55321 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55322 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55319 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55323 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55324 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55323 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55324 [200]: GET /assets/site.js?v=20260618-contact-strip
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55321 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55324 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55320 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55323 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55322 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55327 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55327 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55329 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55327 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55329 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55331 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55331 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55331 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55329 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55332 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55332 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55332 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55333 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55333 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55334 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55334 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55335 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55333 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55335 [200]: GET /assets/LB.png
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55335 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55334 Closing
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55340 Accepted
+[Thu Jun 18 11:29:45 2026] 127.0.0.1:55340 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 11:29:46 2026] 127.0.0.1:55346 Accepted
+[Thu Jun 18 11:29:46 2026] 127.0.0.1:55346 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 11:29:46 2026] 127.0.0.1:55346 Closing
+[Thu Jun 18 11:29:46 2026] 127.0.0.1:55340 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55376 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55376 [200]: GET /index.php
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55376 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55377 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55377 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55377 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55379 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55380 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55381 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55382 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55380 [200]: GET /assets/site.css?v=20260618-contact-strip
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55379 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55381 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55382 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55380 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55383 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55381 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55386 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55383 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55386 [200]: GET /assets/site.js?v=20260618-contact-strip
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55386 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55387 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55387 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55379 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55383 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55388 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55382 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55388 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55389 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55387 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55389 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55388 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55389 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55392 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55392 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55392 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55393 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55393 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55394 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55394 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55395 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55395 [200]: GET /assets/LB.png
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55393 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55395 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55394 Closing
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55400 Accepted
+[Thu Jun 18 11:30:13 2026] 127.0.0.1:55400 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 11:30:14 2026] 127.0.0.1:55406 Accepted
+[Thu Jun 18 11:30:14 2026] 127.0.0.1:55406 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 11:30:14 2026] 127.0.0.1:55406 Closing
+[Thu Jun 18 11:30:14 2026] 127.0.0.1:55400 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55426 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55426 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55426 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55431 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55432 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55432 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55432 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55431 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55431 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55440 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55440 [200]: GET /index.php
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55440 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55442 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55442 [200]: GET /assets/site.css?v=20260618-contact-strip
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55442 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55443 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55444 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55443 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55445 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55444 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55445 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55447 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55447 [200]: GET /assets/LB.png
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55444 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55449 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55449 [200]: GET /assets/site.js?v=20260618-contact-strip
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55447 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55449 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55445 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55443 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55455 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55456 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55456 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55455 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55455 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55456 Closing
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55459 Accepted
+[Thu Jun 18 11:31:10 2026] 127.0.0.1:55459 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 11:31:11 2026] 127.0.0.1:55459 Closing
+[Thu Jun 18 11:35:52 2026] 127.0.0.1:55521 Accepted
+[Thu Jun 18 11:35:52 2026] 127.0.0.1:55521 [200]: GET /index.php
+[Thu Jun 18 11:35:52 2026] 127.0.0.1:55521 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55533 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55533 [200]: GET /index.php
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55533 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55535 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55536 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55535 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55535 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55536 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55536 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55539 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55540 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55541 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55539 [200]: GET /assets/site.css?v=20260618-gold-hero
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55540 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55541 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55542 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55543 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55542 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55539 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55544 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55543 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55547 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55544 [200]: GET /assets/site.js?v=20260618-gold-hero
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55547 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55541 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55544 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55549 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55549 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55550 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55550 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55543 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55547 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55540 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55542 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55549 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55550 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55551 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55551 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55551 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55552 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55552 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55553 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55553 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55554 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55554 [200]: GET /assets/LB.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55552 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55554 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55553 Closing
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55558 Accepted
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55558 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 11:36:02 2026] 127.0.0.1:55558 Closing
+[Thu Jun 18 11:36:03 2026] 127.0.0.1:55561 Accepted
+[Thu Jun 18 11:36:03 2026] 127.0.0.1:55561 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 11:36:04 2026] 127.0.0.1:55570 Accepted
+[Thu Jun 18 11:36:04 2026] 127.0.0.1:55570 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 11:36:04 2026] 127.0.0.1:55570 Closing
+[Thu Jun 18 11:36:05 2026] 127.0.0.1:55561 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55582 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55582 [200]: GET /index.php
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55582 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55584 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55584 [200]: GET /assets/site.css?v=20260618-gold-hero
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55584 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55586 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55587 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55588 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55586 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55587 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55588 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55587 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55590 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55591 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55593 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55590 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55591 [200]: GET /assets/site.js?v=20260618-gold-hero
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55593 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55591 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55586 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55588 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55590 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55593 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55594 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55594 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55595 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55595 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55594 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55595 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55598 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55598 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55599 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55599 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55598 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55600 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55599 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55601 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55600 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55601 [200]: GET /assets/LB.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55601 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55600 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55605 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55605 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55605 Closing
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55608 Accepted
+[Thu Jun 18 11:36:25 2026] 127.0.0.1:55608 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 11:36:26 2026] 127.0.0.1:55614 Accepted
+[Thu Jun 18 11:36:26 2026] 127.0.0.1:55614 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 11:36:26 2026] 127.0.0.1:55614 Closing
+[Thu Jun 18 11:36:26 2026] 127.0.0.1:55608 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55684 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55685 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55684 [200]: GET /index.php
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55684 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55685 [200]: GET /assets/site.css?v=20260618-gold-hero
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55688 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55689 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55690 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55688 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55689 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55685 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55691 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55690 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55692 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55691 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55693 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55692 [200]: GET /assets/site.js?v=20260618-gold-hero
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55693 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55688 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55692 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55696 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55696 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55697 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55697 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55691 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55693 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55689 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55690 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55697 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55696 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55698 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55699 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55699 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55698 [200]: GET /index.php
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55698 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55700 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55702 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55702 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55704 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55705 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55704 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55705 [200]: GET /assets/LB.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55700 [200]: GET /assets/site.css?v=20260618-gold-hero
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55706 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55707 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55706 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55705 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55708 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55707 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55699 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55700 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55708 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55711 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55712 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55711 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55713 Accepted
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55712 [200]: GET /assets/site.js?v=20260618-gold-hero
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55713 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55707 Closing
+[Thu Jun 18 11:37:25 2026] 127.0.0.1:55702 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55712 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55714 Accepted
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55714 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55704 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55715 Accepted
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55715 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55711 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55706 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55713 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55708 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55714 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55715 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55717 Accepted
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55717 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55718 Accepted
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55718 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55717 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55718 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55720 Accepted
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55720 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55720 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55721 Accepted
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55721 [200]: GET /assets/LB.png
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55721 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55726 Accepted
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55726 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55726 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55727 Accepted
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55727 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55727 Closing
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55730 Accepted
+[Thu Jun 18 11:37:26 2026] 127.0.0.1:55730 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 11:37:27 2026] 127.0.0.1:55736 Accepted
+[Thu Jun 18 11:37:27 2026] 127.0.0.1:55736 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 11:37:29 2026] 127.0.0.1:55754 Accepted
+[Thu Jun 18 11:37:29 2026] 127.0.0.1:55754 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 11:37:29 2026] 127.0.0.1:55754 Closing
+[Thu Jun 18 11:37:29 2026] 127.0.0.1:55755 Accepted
+[Thu Jun 18 11:37:29 2026] 127.0.0.1:55755 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 11:37:29 2026] 127.0.0.1:55755 Closing
+[Thu Jun 18 11:37:30 2026] 127.0.0.1:55730 Closing
+[Thu Jun 18 11:37:31 2026] 127.0.0.1:55736 Closing
+[Thu Jun 18 11:38:29 2026] 127.0.0.1:55777 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55778 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55777 [200]: GET /index.php
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55777 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55782 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55784 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55778 [200]: GET /assets/site.css?v=20260618-gold-hero
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55785 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55786 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55785 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55787 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55786 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55778 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55788 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55782 [200]: GET /index.php
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55782 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55787 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55789 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55788 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55794 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55789 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55794 [200]: GET /assets/site.js?v=20260618-gold-hero
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55786 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55794 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55788 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55789 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55796 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55796 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55785 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55787 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55797 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55784 [200]: GET /assets/site.css?v=20260618-gold-hero
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55797 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55784 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55800 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55801 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55800 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55802 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55801 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55803 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55802 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55804 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55803 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55806 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55804 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55806 [200]: GET /assets/site.js?v=20260618-gold-hero
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55801 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55806 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55796 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55797 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55803 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55804 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55800 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55802 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55807 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55807 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55807 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55808 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55808 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55808 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55809 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55809 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55809 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55811 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55811 [200]: GET /assets/LB.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55811 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55814 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55814 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55815 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55815 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55816 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55816 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55814 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55815 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55816 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55819 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55819 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55822 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55822 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55819 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55822 Closing
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55823 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55823 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55824 Accepted
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55824 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 11:38:30 2026] 127.0.0.1:55824 Closing
+[Thu Jun 18 11:38:31 2026] 127.0.0.1:55828 Accepted
+[Thu Jun 18 11:38:31 2026] 127.0.0.1:55830 Accepted
+[Thu Jun 18 11:38:31 2026] 127.0.0.1:55830 [200]: GET /assets/LB.png
+[Thu Jun 18 11:38:31 2026] 127.0.0.1:55828 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 11:38:31 2026] 127.0.0.1:55830 Closing
+[Thu Jun 18 11:38:31 2026] 127.0.0.1:55828 Closing
+[Thu Jun 18 11:38:31 2026] 127.0.0.1:55832 Accepted
+[Thu Jun 18 11:38:31 2026] 127.0.0.1:55832 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 11:38:32 2026] 127.0.0.1:55843 Accepted
+[Thu Jun 18 11:38:32 2026] 127.0.0.1:55843 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 11:38:32 2026] 127.0.0.1:55843 Closing
+[Thu Jun 18 11:38:32 2026] 127.0.0.1:55849 Accepted
+[Thu Jun 18 11:38:32 2026] 127.0.0.1:55849 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 11:38:32 2026] 127.0.0.1:55849 Closing
+[Thu Jun 18 11:38:32 2026] 127.0.0.1:55823 Closing
+[Thu Jun 18 11:38:34 2026] 127.0.0.1:55832 Closing
+[Thu Jun 18 15:20:24 2026] 127.0.0.1:52152 Accepted
+[Thu Jun 18 15:20:24 2026] 127.0.0.1:52152 [200]: GET /index.php
+[Thu Jun 18 15:20:24 2026] 127.0.0.1:52152 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52174 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52175 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52174 [200]: GET /index.php
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52174 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52175 [200]: GET /assets/site.css?v=20260618-black-who
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52177 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52178 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52177 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52179 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52178 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52175 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52180 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52179 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52180 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52178 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52180 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52177 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52183 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52179 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52183 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52185 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52185 [200]: GET /assets/site.js?v=20260618-black-who
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52183 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52186 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52186 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52185 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52187 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52187 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52186 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52187 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52188 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52188 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52188 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52189 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52189 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52189 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52190 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52190 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52191 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52191 [200]: GET /assets/LB.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52191 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52190 Closing
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52194 Accepted
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52194 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 15:20:46 2026] 127.0.0.1:52194 Closing
+[Thu Jun 18 15:20:47 2026] 127.0.0.1:52198 Accepted
+[Thu Jun 18 15:20:47 2026] 127.0.0.1:52198 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 15:20:48 2026] 127.0.0.1:52206 Accepted
+[Thu Jun 18 15:20:48 2026] 127.0.0.1:52206 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 15:20:48 2026] 127.0.0.1:52206 Closing
+[Thu Jun 18 15:20:49 2026] 127.0.0.1:52198 Closing
+[Thu Jun 18 15:22:58 2026] 127.0.0.1:52330 Accepted
+[Thu Jun 18 15:22:58 2026] 127.0.0.1:52330 [200]: GET /index.php
+[Thu Jun 18 15:22:58 2026] 127.0.0.1:52330 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52352 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52352 [200]: GET /index.php
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52352 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52354 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52355 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52354 [200]: GET /assets/site.css?v=20260618-black-who2
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52354 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52355 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52356 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52355 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52357 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52356 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52357 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52360 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52360 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52361 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52362 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52361 [200]: GET /assets/site.js?v=20260618-black-who2
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52362 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52361 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52363 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52363 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52356 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52360 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52357 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52362 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52364 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52364 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52363 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52364 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52370 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52370 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52370 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52371 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52371 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52372 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52371 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52372 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52373 Accepted
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52373 [200]: GET /assets/LB.png
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52373 Closing
+[Thu Jun 18 15:23:28 2026] 127.0.0.1:52372 Closing
+[Thu Jun 18 15:23:29 2026] 127.0.0.1:52377 Accepted
+[Thu Jun 18 15:23:29 2026] 127.0.0.1:52377 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 15:23:29 2026] 127.0.0.1:52377 Closing
+[Thu Jun 18 15:23:29 2026] 127.0.0.1:52379 Accepted
+[Thu Jun 18 15:23:29 2026] 127.0.0.1:52379 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 15:23:30 2026] 127.0.0.1:52391 Accepted
+[Thu Jun 18 15:23:30 2026] 127.0.0.1:52391 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 15:23:30 2026] 127.0.0.1:52391 Closing
+[Thu Jun 18 15:23:32 2026] 127.0.0.1:52379 Closing
+[Thu Jun 18 15:27:59 2026] 127.0.0.1:52540 Accepted
+[Thu Jun 18 15:27:59 2026] 127.0.0.1:52540 [200]: GET /index.php
+[Thu Jun 18 15:27:59 2026] 127.0.0.1:52540 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52555 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52556 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52555 [200]: GET /index.php
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52555 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52556 [200]: GET /assets/site.css?v=20260618-photo-who
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52562 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52563 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52562 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52564 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52563 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52556 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52566 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52564 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52567 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52566 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52568 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52567 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52568 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52563 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52569 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52569 [200]: GET /assets/site.js?v=20260618-photo-who
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52569 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52566 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52567 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52562 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52564 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52568 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52570 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52570 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52570 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52571 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52571 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52571 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52572 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52572 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52573 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52573 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52572 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52573 Closing
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52575 Accepted
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52575 [200]: GET /assets/LB.png
+[Thu Jun 18 15:28:27 2026] 127.0.0.1:52575 Closing
+[Thu Jun 18 15:28:28 2026] 127.0.0.1:52577 Accepted
+[Thu Jun 18 15:28:28 2026] 127.0.0.1:52577 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 15:28:28 2026] 127.0.0.1:52577 Closing
+[Thu Jun 18 15:28:28 2026] 127.0.0.1:52581 Accepted
+[Thu Jun 18 15:28:28 2026] 127.0.0.1:52581 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 15:28:28 2026] 127.0.0.1:52589 Accepted
+[Thu Jun 18 15:28:28 2026] 127.0.0.1:52589 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 15:28:28 2026] 127.0.0.1:52589 Closing
+[Thu Jun 18 15:28:30 2026] 127.0.0.1:52581 Closing
+[Thu Jun 18 15:30:14 2026] 127.0.0.1:52627 Accepted
+[Thu Jun 18 15:30:14 2026] 127.0.0.1:52627 [200]: GET /index.php
+[Thu Jun 18 15:30:14 2026] 127.0.0.1:52627 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52648 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52649 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52648 [200]: GET /index.php
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52648 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52649 [200]: GET /assets/site.css?v=20260618-photo-who
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52651 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52652 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52653 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52651 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52652 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52649 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52653 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52656 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52657 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52652 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52656 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52657 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52658 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52658 [200]: GET /assets/site.js?v=20260618-photo-who
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52658 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52656 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52651 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52653 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52657 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52660 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52660 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52660 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52661 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52661 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52661 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52663 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52663 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52664 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52664 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52663 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52664 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52665 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52666 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52665 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52666 [200]: GET /assets/LB.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52666 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52665 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52671 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52671 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52671 Closing
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52672 Accepted
+[Thu Jun 18 15:30:49 2026] 127.0.0.1:52672 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 15:30:51 2026] 127.0.0.1:52680 Accepted
+[Thu Jun 18 15:30:51 2026] 127.0.0.1:52680 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 15:30:51 2026] 127.0.0.1:52680 Closing
+[Thu Jun 18 15:30:52 2026] 127.0.0.1:52672 Closing
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52799 Accepted
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52800 Accepted
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52799 [200]: GET /index.php
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52799 Closing
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52804 Accepted
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52800 [200]: GET /assets/site.css?v=20260618-photo-who
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52805 Accepted
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52804 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52806 Accepted
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52805 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52807 Accepted
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52806 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52800 Closing
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52812 Accepted
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52807 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52813 Accepted
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52812 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52813 [200]: GET /assets/site.js?v=20260618-photo-who
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52805 Closing
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52816 Accepted
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52816 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52813 Closing
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52817 Accepted
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52817 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 15:32:32 2026] 127.0.0.1:52807 Closing
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52812 Closing
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52804 Closing
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52806 Closing
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52816 Closing
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52817 Closing
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52818 Accepted
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52818 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52818 Closing
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52819 Accepted
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52819 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52819 Closing
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52820 Accepted
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52820 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52821 Accepted
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52821 [200]: GET /assets/LB.png
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52821 Closing
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52820 Closing
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52822 Accepted
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52822 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52824 Accepted
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52824 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 15:32:33 2026] 127.0.0.1:52824 Closing
+[Thu Jun 18 15:32:34 2026] 127.0.0.1:52835 Accepted
+[Thu Jun 18 15:32:34 2026] 127.0.0.1:52835 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 15:32:34 2026] 127.0.0.1:52835 Closing
+[Thu Jun 18 15:32:36 2026] 127.0.0.1:52822 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52875 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52875 [200]: GET /index.php
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52875 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52876 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52878 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52876 [200]: GET /assets/site.css?v=20260618-photo-who
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52879 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52878 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52880 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52879 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52881 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52880 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52876 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52883 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52881 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52885 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52883 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52885 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52879 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52886 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52886 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52881 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52883 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52878 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52880 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52885 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52886 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52887 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52887 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52888 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52888 [200]: GET /assets/site.js?v=20260618-photo-who
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52888 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52887 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52889 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52889 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52889 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52891 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52891 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52892 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52892 [200]: GET /assets/LB.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52892 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52891 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52896 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52896 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52896 Closing
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52898 Accepted
+[Thu Jun 18 15:34:37 2026] 127.0.0.1:52898 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 15:34:38 2026] 127.0.0.1:52905 Accepted
+[Thu Jun 18 15:34:38 2026] 127.0.0.1:52905 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 15:34:38 2026] 127.0.0.1:52905 Closing
+[Thu Jun 18 15:34:39 2026] 127.0.0.1:52898 Closing
+[Thu Jun 18 15:42:08 2026] 127.0.0.1:53081 Accepted
+[Thu Jun 18 15:42:08 2026] 127.0.0.1:53081 [200]: GET /index.php
+[Thu Jun 18 15:42:08 2026] 127.0.0.1:53081 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53110 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53110 [200]: GET /index.php
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53110 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53112 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53112 [200]: GET /assets/site.css?v=20260618-slide-full
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53113 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53113 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53114 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53112 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53115 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53114 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53116 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53115 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53117 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53116 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53120 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53117 [200]: GET /assets/site.js?v=20260618-slide-full
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53113 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53121 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53120 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53121 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53117 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53122 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53122 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53116 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53120 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53114 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53115 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53121 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53122 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53124 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53124 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53124 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53125 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53125 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53125 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53126 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53127 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53126 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53127 [200]: GET /assets/LB.png
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53127 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53126 Closing
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53132 Accepted
+[Thu Jun 18 15:42:54 2026] 127.0.0.1:53132 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 15:42:55 2026] 127.0.0.1:53132 Closing
+[Thu Jun 18 15:42:55 2026] 127.0.0.1:53134 Accepted
+[Thu Jun 18 15:42:55 2026] 127.0.0.1:53134 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 15:42:57 2026] 127.0.0.1:53146 Accepted
+[Thu Jun 18 15:42:57 2026] 127.0.0.1:53146 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 15:42:57 2026] 127.0.0.1:53146 Closing
+[Thu Jun 18 15:42:59 2026] 127.0.0.1:53134 Closing
+[Thu Jun 18 15:49:06 2026] 127.0.0.1:53288 Accepted
+[Thu Jun 18 15:49:06 2026] 127.0.0.1:53288 [200]: GET /index.php
+[Thu Jun 18 15:49:06 2026] 127.0.0.1:53288 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53370 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53370 [200]: GET /index.php
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53370 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53372 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53373 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53372 [200]: GET /assets/site.css?v=20260618-full-footer
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53374 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53373 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53375 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53374 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53376 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53375 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53372 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53377 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53376 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53377 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53378 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53378 [200]: GET /assets/site.js?v=20260618-full-footer
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53374 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53378 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53381 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53381 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53376 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53382 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53377 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53382 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53373 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53375 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53381 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53382 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53384 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53384 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53384 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53385 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53385 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53385 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53386 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53386 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53386 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53388 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53388 [200]: GET /assets/LB.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53388 Closing
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53391 Accepted
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53391 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 15:50:17 2026] 127.0.0.1:53391 Closing
+[Thu Jun 18 15:50:18 2026] 127.0.0.1:53392 Accepted
+[Thu Jun 18 15:50:18 2026] 127.0.0.1:53392 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 15:50:20 2026] 127.0.0.1:53403 Accepted
+[Thu Jun 18 15:50:20 2026] 127.0.0.1:53403 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 15:50:20 2026] 127.0.0.1:53403 Closing
+[Thu Jun 18 15:50:24 2026] 127.0.0.1:53392 Closing
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53424 Accepted
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53424 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53424 Closing
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53431 Accepted
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53432 Accepted
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53432 [200]: GET /index.php
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53432 Closing
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53431 [200]: GET /assets/site.css?v=20260618-full-footer
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53436 Accepted
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53436 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53431 Closing
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53437 Accepted
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53438 Accepted
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53437 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53438 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53436 Closing
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53438 Closing
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53442 Accepted
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53443 Accepted
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53437 Closing
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53442 [200]: GET /assets/LB.png
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53443 [200]: GET /assets/site.js?v=20260618-full-footer
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53443 Closing
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53442 Closing
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53453 Accepted
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53454 Accepted
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53453 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53454 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53461 Accepted
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53461 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53454 Closing
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53453 Closing
+[Thu Jun 18 15:51:50 2026] 127.0.0.1:53461 Closing
+[Thu Jun 18 15:51:51 2026] 127.0.0.1:53464 Accepted
+[Thu Jun 18 15:51:51 2026] 127.0.0.1:53464 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 15:51:51 2026] 127.0.0.1:53464 Closing
+[Thu Jun 18 15:56:00 2026] 127.0.0.1:53580 Accepted
+[Thu Jun 18 15:56:00 2026] 127.0.0.1:53580 [200]: GET /index.php
+[Thu Jun 18 15:56:00 2026] 127.0.0.1:53580 Closing
+[Thu Jun 18 15:56:31 2026] 127.0.0.1:53596 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53597 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53596 [200]: GET /index.php
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53596 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53597 [200]: GET /assets/site.css?v=20260618-subs-photo
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53599 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53597 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53600 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53599 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53601 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53600 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53602 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53601 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53602 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53605 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53605 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53600 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53602 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53606 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53599 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53605 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53606 [200]: GET /assets/site.js?v=20260618-subs-photo
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53601 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53606 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53608 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53608 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53609 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53609 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53608 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53609 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53610 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53610 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53610 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53612 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53612 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53612 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53613 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53613 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53614 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53614 [200]: GET /assets/LB.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53613 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53614 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53618 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53618 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53618 Closing
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53619 Accepted
+[Thu Jun 18 15:56:32 2026] 127.0.0.1:53619 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 15:56:33 2026] 127.0.0.1:53626 Accepted
+[Thu Jun 18 15:56:33 2026] 127.0.0.1:53626 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 15:56:33 2026] 127.0.0.1:53626 Closing
+[Thu Jun 18 15:56:38 2026] 127.0.0.1:53619 Closing
+[Thu Jun 18 16:01:23 2026] 127.0.0.1:53775 Accepted
+[Thu Jun 18 16:01:23 2026] 127.0.0.1:53775 [200]: GET /index.php
+[Thu Jun 18 16:01:23 2026] 127.0.0.1:53775 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53802 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53802 [200]: GET /index.php
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53802 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53803 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53805 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53803 [200]: GET /assets/site.css?v=20260618-subs-full
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53806 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53805 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53807 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53806 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53808 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53807 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53803 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53811 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53808 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53813 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53811 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53813 [200]: GET /assets/site.js?v=20260618-subs-full
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53806 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53814 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53813 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53814 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53815 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53815 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53808 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53811 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53805 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53807 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53814 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53815 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53817 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53817 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53817 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53818 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53818 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53818 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53819 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53819 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53819 Closing
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53820 Accepted
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53820 [200]: GET /assets/LB.png
+[Thu Jun 18 16:02:02 2026] 127.0.0.1:53820 Closing
+[Thu Jun 18 16:02:03 2026] 127.0.0.1:53825 Accepted
+[Thu Jun 18 16:02:03 2026] 127.0.0.1:53825 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 16:02:03 2026] 127.0.0.1:53825 Closing
+[Thu Jun 18 16:02:03 2026] 127.0.0.1:53827 Accepted
+[Thu Jun 18 16:02:03 2026] 127.0.0.1:53827 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 16:02:06 2026] 127.0.0.1:53841 Accepted
+[Thu Jun 18 16:02:06 2026] 127.0.0.1:53841 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 16:02:06 2026] 127.0.0.1:53841 Closing
+[Thu Jun 18 16:02:06 2026] 127.0.0.1:53827 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53861 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53861 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53861 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53868 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53869 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53869 [200]: GET /index.php
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53869 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53875 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53868 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53868 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53876 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53875 [200]: GET /assets/site.css?v=20260618-subs-full
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53877 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53876 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53877 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53875 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53881 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53882 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53883 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53877 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53881 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53882 [200]: GET /assets/LB.png
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53883 [200]: GET /assets/site.js?v=20260618-subs-full
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53883 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53882 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53876 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53881 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53888 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53888 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53888 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53891 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53892 Accepted
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53891 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53892 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53892 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53891 Closing
+[Thu Jun 18 16:03:36 2026] 127.0.0.1:53894 Accepted
+[Thu Jun 18 16:03:37 2026] 127.0.0.1:53894 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53898 Accepted
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53899 Accepted
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53900 Accepted
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53898 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53899 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53900 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53901 Accepted
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53901 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53903 Accepted
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53903 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53899 Closing
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53898 Closing
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53900 Closing
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53901 Closing
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53903 Closing
+[Thu Jun 18 16:03:38 2026] 127.0.0.1:53894 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:53996 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:53996 [200]: GET /index.php
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:53996 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:53997 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:53997 [200]: GET /assets/site.css?v=20260618-subs-full
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:53999 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54000 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54001 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:53997 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:53999 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54000 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54001 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54004 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54005 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54004 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54005 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54000 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54006 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54006 [200]: GET /assets/site.js?v=20260618-subs-full
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54006 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54008 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54004 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54008 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54001 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54005 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:53999 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54009 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54009 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54008 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54009 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54010 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54010 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54010 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54011 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54011 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54011 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54012 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54012 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54013 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54013 [200]: GET /assets/LB.png
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54013 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54012 Closing
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54017 Accepted
+[Thu Jun 18 16:05:04 2026] 127.0.0.1:54017 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 16:05:05 2026] 127.0.0.1:54017 Closing
+[Thu Jun 18 16:05:05 2026] 127.0.0.1:54020 Accepted
+[Thu Jun 18 16:05:05 2026] 127.0.0.1:54020 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 16:05:06 2026] 127.0.0.1:54028 Accepted
+[Thu Jun 18 16:05:06 2026] 127.0.0.1:54028 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 16:05:06 2026] 127.0.0.1:54028 Closing
+[Thu Jun 18 16:05:10 2026] 127.0.0.1:54020 Closing
+[Thu Jun 18 16:12:29 2026] 127.0.0.1:54306 Accepted
+[Thu Jun 18 16:12:29 2026] 127.0.0.1:54306 [200]: GET /index.php
+[Thu Jun 18 16:12:29 2026] 127.0.0.1:54306 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54323 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54323 [200]: GET /index.php
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54323 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54324 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54324 [200]: GET /assets/site.css?v=20260618-value-text
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54326 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54327 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54326 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54328 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54327 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54324 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54329 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54328 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54330 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54329 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54333 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54330 [200]: GET /assets/site.js?v=20260618-value-text
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54333 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54327 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54330 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54329 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54333 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54326 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54328 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54335 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54335 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54336 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54336 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54335 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54336 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54337 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54337 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54337 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54338 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54338 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54339 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54339 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54338 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54339 Closing
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54341 Accepted
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54341 [200]: GET /assets/LB.png
+[Thu Jun 18 16:13:14 2026] 127.0.0.1:54341 Closing
+[Thu Jun 18 16:13:15 2026] 127.0.0.1:54344 Accepted
+[Thu Jun 18 16:13:15 2026] 127.0.0.1:54344 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 16:13:15 2026] 127.0.0.1:54344 Closing
+[Thu Jun 18 16:13:15 2026] 127.0.0.1:54347 Accepted
+[Thu Jun 18 16:13:15 2026] 127.0.0.1:54347 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 16:13:16 2026] 127.0.0.1:54353 Accepted
+[Thu Jun 18 16:13:16 2026] 127.0.0.1:54353 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 16:13:16 2026] 127.0.0.1:54353 Closing
+[Thu Jun 18 16:13:17 2026] 127.0.0.1:54347 Closing
+[Thu Jun 18 16:15:00 2026] 127.0.0.1:54380 Accepted
+[Thu Jun 18 16:15:00 2026] 127.0.0.1:54381 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54381 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54381 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54380 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54380 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54386 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54386 [200]: GET /index.php
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54386 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54390 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54391 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54392 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54390 [200]: GET /assets/site.css?v=20260618-value-text
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54391 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54392 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54393 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54390 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54394 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54393 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54395 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54394 [200]: GET /assets/LB.png
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54395 [200]: GET /assets/site.js?v=20260618-value-text
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54391 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54395 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54394 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54393 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54392 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54400 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54401 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54400 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54401 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54401 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54400 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54403 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54403 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54403 Closing
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54406 Accepted
+[Thu Jun 18 16:15:01 2026] 127.0.0.1:54406 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 16:15:02 2026] 127.0.0.1:54409 Accepted
+[Thu Jun 18 16:15:02 2026] 127.0.0.1:54409 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 16:15:02 2026] 127.0.0.1:54409 Closing
+[Thu Jun 18 16:15:03 2026] 127.0.0.1:54406 Closing
+[Thu Jun 18 16:20:52 2026] 127.0.0.1:54710 Accepted
+[Thu Jun 18 16:20:52 2026] 127.0.0.1:54710 [200]: GET /index.php
+[Thu Jun 18 16:20:52 2026] 127.0.0.1:54710 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54786 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54787 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54786 [200]: GET /index.php
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54786 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54787 [200]: GET /assets/site.css?v=20260618-subs-bg-size
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54789 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54790 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54789 [200]: GET /assets/slides/kmb-all-activities-hero.png
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54791 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54790 [200]: GET /assets/logo-kmb.png
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54787 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54792 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54791 [200]: GET /assets/slides/slide-renewables-logistics.png
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54793 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54792 [200]: GET /assets/slides/slide-dubai-trade.png
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54796 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54793 [200]: GET /assets/about-kmb-office.png
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54796 [200]: GET /assets/site.js?v=20260618-subs-bg-size
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54790 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54796 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54800 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54800 [200]: GET /assets/secteurs/1.png
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54801 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54801 [200]: GET /assets/secteurs/3.png
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54792 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54793 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54789 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54791 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54800 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54801 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54802 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54802 [200]: GET /assets/secteurs/4.png
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54802 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54804 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54804 [200]: GET /assets/secteurs/5.png
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54805 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54805 [200]: GET /assets/secteurs/6.png
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54804 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54806 Accepted
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54805 Closing
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54806 [200]: GET /assets/LB.png
+[Thu Jun 18 16:21:50 2026] 127.0.0.1:54806 Closing
+[Thu Jun 18 16:21:51 2026] 127.0.0.1:54812 Accepted
+[Thu Jun 18 16:21:51 2026] 127.0.0.1:54813 Accepted
+[Thu Jun 18 16:21:51 2026] 127.0.0.1:54812 [200]: GET /assets/slides/slide-infrastructure.png
+[Thu Jun 18 16:21:51 2026] 127.0.0.1:54813 [200]: GET /assets/vd1.mp4
+[Thu Jun 18 16:21:51 2026] 127.0.0.1:54812 Closing
+[Thu Jun 18 16:21:52 2026] 127.0.0.1:54822 Accepted
+[Thu Jun 18 16:21:52 2026] 127.0.0.1:54822 [200]: GET /assets/favicon-kmb.png
+[Thu Jun 18 16:21:52 2026] 127.0.0.1:54822 Closing
+[Thu Jun 18 16:21:57 2026] 127.0.0.1:54813 Closing

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://techno-v.page.gd/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://techno-v.page.gd/index.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://techno-v.page.gd/blogs.php</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://techno-v.page.gd/secteur.html?id=construction</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://techno-v.page.gd/secteur.html?id=petroleum</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://techno-v.page.gd/secteur.html?id=agriculture</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://techno-v.page.gd/secteur.html?id=transport</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://techno-v.page.gd/secteur.html?id=metals</loc>
+    <priority>0.8</priority>
+  </url>
+</urlset>
+

@@ -1,0 +1,41 @@
+CREATE TABLE IF NOT EXISTS blog_posts (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  slug VARCHAR(180) NOT NULL,
+  title VARCHAR(220) NOT NULL,
+  subtitle VARCHAR(260) NULL,
+  excerpt TEXT NULL,
+  body_text MEDIUMTEXT NULL,
+  cover_image VARCHAR(255) NULL,
+  cover_video VARCHAR(255) NULL,
+  cover_video_poster VARCHAR(255) NULL,
+  media_position ENUM('top','after_intro','bottom') NOT NULL DEFAULT 'top',
+  author_name VARCHAR(120) NULL,
+  category VARCHAR(100) NULL,
+  published_at DATETIME NULL,
+  sort_order INT DEFAULT 0,
+  is_featured TINYINT(1) DEFAULT 0,
+  is_active TINYINT(1) DEFAULT 1,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  UNIQUE KEY unique_blog_slug (slug),
+  INDEX idx_blog_public (is_active, published_at, sort_order),
+  INDEX idx_blog_featured (is_featured, is_active)
+) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+CREATE TABLE IF NOT EXISTS blog_blocks (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  post_id INT NOT NULL,
+  block_type ENUM('text','image','video','quote') NOT NULL DEFAULT 'text',
+  block_title VARCHAR(180) NULL,
+  body_text MEDIUMTEXT NULL,
+  media_path VARCHAR(255) NULL,
+  poster_path VARCHAR(255) NULL,
+  caption VARCHAR(220) NULL,
+  align_style ENUM('full','left','right') NOT NULL DEFAULT 'full',
+  sort_order INT DEFAULT 0,
+  is_active TINYINT(1) DEFAULT 1,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  INDEX idx_blog_blocks_post (post_id, is_active, sort_order),
+  CONSTRAINT fk_blog_blocks_post FOREIGN KEY (post_id) REFERENCES blog_posts(id) ON DELETE CASCADE
+) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
